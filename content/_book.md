@@ -1,36 +1,40 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Sem cejtila les
+  identifier: b818027e-2ff7-4401-b68d-7a233368f32d
+  author: Kateřina Kováčová
+  publisher: Městská knihovna v Praze
+  modified: '2017-02-13T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - sem_cejtila_les_001.html
+  - sem_cejtila_les_002.html
+  - sem_cejtila_les_003.html
+  - sem_cejtila_les_004.html
+  - sem_cejtila_les_005.html
+  - sem_cejtila_les_006.html
+  - sem_cejtila_les_007.html
+  - sem_cejtila_les_008.html
+  - sem_cejtila_les_009.html
+  - sem_cejtila_les_010.html
+  - sem_cejtila_les_011.html
+  - sem_cejtila_les_012.html
+  - sem_cejtila_les_013.html
+  - sem_cejtila_les_014.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
