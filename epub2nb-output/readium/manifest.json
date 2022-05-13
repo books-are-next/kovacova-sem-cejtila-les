@@ -1,0 +1,132 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Sem cejtila les",
+    "identifier": "b818027e-2ff7-4401-b68d-7a233368f32d",
+    "author": "Kateřina Kováčová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-02-13T00:00:00.000Z",
+    "published": "2017-02-17T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_010.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_011.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_012.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_013.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sem_cejtila_les_014.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Zní ze zdí",
+      "href": "OEBPS/Text/sem_cejtila_les_006.htm"
+    },
+    {
+      "title": "Zní z kostí",
+      "href": "OEBPS/Text/sem_cejtila_les_008.htm"
+    },
+    {
+      "title": "Zní z hnízd",
+      "href": "OEBPS/Text/sem_cejtila_les_010.htm"
+    },
+    {
+      "title": "Zní z písní",
+      "href": "OEBPS/Text/sem_cejtila_les_012.htm"
+    }
+  ]
+}

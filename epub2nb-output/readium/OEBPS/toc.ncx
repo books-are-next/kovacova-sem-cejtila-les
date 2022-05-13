@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="b818027e-2ff7-4401-b68d-7a233368f32d" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sem cejtila les</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Zní ze zdí</text>
+      </navLabel>
+      <content src="Text/sem_cejtila_les_006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Zní z kostí</text>
+      </navLabel>
+      <content src="Text/sem_cejtila_les_008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Zní z hnízd</text>
+      </navLabel>
+      <content src="Text/sem_cejtila_les_010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Zní z písní</text>
+      </navLabel>
+      <content src="Text/sem_cejtila_les_012.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,373 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Sem cejtila les",
+      "identifier": "b818027e-2ff7-4401-b68d-7a233368f32d",
+      "author": "Kateřina Kováčová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-02-13T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "sem_cejtila_les_001.md",
+            "xhtml": "sem_cejtila_les_001.htm",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_002.md",
+            "xhtml": "sem_cejtila_les_002.htm",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_003.md",
+            "xhtml": "sem_cejtila_les_003.htm",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_004.md",
+            "xhtml": "sem_cejtila_les_004.htm",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_005.md",
+            "xhtml": "sem_cejtila_les_005.htm",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_006.md",
+            "xhtml": "sem_cejtila_les_006.htm",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_007.md",
+            "xhtml": "sem_cejtila_les_007.htm",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_008.md",
+            "xhtml": "sem_cejtila_les_008.htm",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_009.md",
+            "xhtml": "sem_cejtila_les_009.htm",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_010.md",
+            "xhtml": "sem_cejtila_les_010.htm",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_011.md",
+            "xhtml": "sem_cejtila_les_011.htm",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_012.md",
+            "xhtml": "sem_cejtila_les_012.htm",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_013.md",
+            "xhtml": "sem_cejtila_les_013.htm",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "sem_cejtila_les_014.md",
+            "xhtml": "sem_cejtila_les_014.htm",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Sem cejtila les",
+      "identifier": "b818027e-2ff7-4401-b68d-7a233368f32d",
+      "author": "Kateřina Kováčová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-02-13T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_001.md",
+        "xhtml": "sem_cejtila_les_001.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_002.md",
+        "xhtml": "sem_cejtila_les_002.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_003.md",
+        "xhtml": "sem_cejtila_les_003.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_004.md",
+        "xhtml": "sem_cejtila_les_004.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_005.md",
+        "xhtml": "sem_cejtila_les_005.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_006.md",
+        "xhtml": "sem_cejtila_les_006.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_007.md",
+        "xhtml": "sem_cejtila_les_007.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_008.md",
+        "xhtml": "sem_cejtila_les_008.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_009.md",
+        "xhtml": "sem_cejtila_les_009.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_010.md",
+        "xhtml": "sem_cejtila_les_010.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_011.md",
+        "xhtml": "sem_cejtila_les_011.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_012.md",
+        "xhtml": "sem_cejtila_les_012.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_013.md",
+        "xhtml": "sem_cejtila_les_013.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "sem_cejtila_les_014.md",
+        "xhtml": "sem_cejtila_les_014.htm"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booktextvenovanicxspfirst",
+      "e-booktextvenovanicxsplast",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bza1",
+      "e-bookversebezpredsazeni6bzachar",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "siktancst",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kovacova-sem-cejtila-les"
+    },
+    "generatedAt": 1652419644795
+  }
+}
