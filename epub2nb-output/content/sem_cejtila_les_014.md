@@ -2,15 +2,15 @@
 contentType: prose
 ---
 
-Kateřina Kováčová
+**Kateřina Kováčová**
 
-Sem cejtila les
+**Sem cejtila les**
 
 Edice E-knihovna
 
 Redakce Jaroslava Bednářová
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

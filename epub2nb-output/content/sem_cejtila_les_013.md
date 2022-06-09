@@ -18,6 +18,8 @@ Lžíce zní o lavor
 Je zrádné zapřít hlavu zrovna ve chvíli,  
 kdy váže milého do staré pytloviny.
 
+  
+
 Stará žena sedí na nádraží  
 s květinami vraženými do plátěné tašky,  
 má hodně odhalené kotníky.  
@@ -31,6 +33,8 @@ a tlustá pavoučí těla zkrápějí
 z výloh,  
 když tichne město.
 
+  
+
 Odkryla jsem kořeny staré jabloně.  
 Byly zaryté v zemi,  
 zahryznuté do mazlavé hlíny.  
@@ -39,6 +43,8 @@ nasládlá a hrubá.
 V několika rozseknutých plodech  
 žhnula vosí těla.  
 Nevím, jestli ještě něco přijde.
+
+  
 
 Ležela na boku a chvěla se. Věděl, že nespí.  
 Kdyby se jí dotkl, jako by posolil žloutek.  
@@ -49,6 +55,8 @@ Kdyby věděl, kde má začít, řekl by jí to
 všechno, ale nevěděl, a tak neřekl nic, jen  
 otevřel ústa, kdyby se to náhodou chtělo  
 vyslovit samo.
+
+  
 
 Dužnatý sbíral bedly. Jejich velké strupaté  
 obličeje uřízl nožem, takže z jehličí trčely jen  
@@ -67,6 +75,8 @@ k nesnesení. Řekl a bylo to k nesnesení.
 Měla sem pět klíšťat. Říkal sem ti, ať nechodíš  
 bosa. Sem cejtila les.
 
+  
+
 Je podzim, už potřicáté. Z pahýlu vrby,  
 ze kterého šlehaly nové, jakoby mastné větve,  
 si chtěl urvat a uvázat promoklý drát vrbového  
@@ -81,6 +91,8 @@ v dlaních, když je beru. Jako já vždycky zdrsním,
 když mě někdo bere, a z jedné strany hniju,  
 z druhé schnu..., soustřeď se na střed, člověče.
 
+  
+
 Ze stodoly doznívá  
 píseň kostem.  
 Spěte v kořenech.  
@@ -89,7 +101,11 @@ ať mám sílu
 na to, co přijde,  
 kdyby to náhodou nepřišlo.
 
+  
+
 Ty samče
+
+  
 
 Bliznatý!  
 Čekám na stromě,  
@@ -98,6 +114,8 @@ nastavená jak lůj
 sýkorám.  
 Pospěš si.  
 Jí už hluboko.
+
+  
 
 Navíjím hedvábné vlákno  
 z koutů stodoly.  
@@ -113,6 +131,8 @@ nalámat dříví.
 Vrátím se!  
 řekla bych, zteplalá a prudká.
 
+  
+
 Sněhové hřbety  
 sjíždějí ze svých těl  
 a je v tom lehké,  
@@ -123,6 +143,8 @@ Stydnu v závěji
 a sekám polena.  
 Někde mezi sebou a vším,  
 co vůbec nedokážu ovlivnit.
+
+  
 
 Milá dlaní uhladila hrob  
 a zpěvák si šel po svých,  
@@ -140,6 +162,8 @@ zatímco hosté zemřeli na čekání
 a na hlad.  
 Víno jsem nikam nelila,  
 pila jsem ho přímo z krabice.
+
+  
 
 Všechno, co teď přijde, je už navíc,  
 říkám si.

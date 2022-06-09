@@ -2,7 +2,7 @@
 contentType: prose
 ---
 
-Znění tohoto textu vychází z díla Sem cejtila les tak, jak bylo vydáno nakladatelstvím Perplex v roce 2015 (KOVÁČOVÁ, Kateřina. Sem cetjila les. 1. vyd. Ilustr. Jan GŘEŠEK. Opava: Perplex, 2015. 72 s.).
+Znění tohoto textu vychází z díla Sem cejtila les tak, jak bylo vydáno nakladatelstvím Perplex v roce 2015 (KOVÁČOVÁ, Kateřina. _Sem cetjila les_. 1. vyd. Ilustr. Jan GŘEŠEK. Opava: Perplex, 2015. 72 s.).
 
 * * *
 
@@ -14,7 +14,7 @@ Text díla (Kateřina Kováčová: Sem cejtila les), publikovaného [Městskou k
 
 Citační záznam této e-knihy:
 
-KOVÁČOVÁ, Kateřina. Sem cejtila les \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2017 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-570-9 (epub). Dostupné z:
+KOVÁČOVÁ, Kateřina. _Sem cejtila les_ \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2017 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-570-9 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/32/39/66/sem\_cejtila\_les.epub](http://web2.mlp.cz/koweb/00/04/32/39/66/sem_cejtila_les.epub).
 
