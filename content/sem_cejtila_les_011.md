@@ -7,10 +7,14 @@ Na horkém poli
 lehla si do něj, mlžného,  
 s tím, že bude spát.
 
+  
+
 Hlavu klidně  
 v jeho klíně,  
 chladné ruce  
 mnou jí skráně.
+
+  
 
 Z černa noci jako trny  
 vystupují kmeny borovic.  
@@ -18,7 +22,11 @@ Když zavřela oči, cítila mravenčení,
 krk se jí napínal bolestí,  
 jak se krčila.
 
+  
+
 Nemůže spát.
+
+  
 
 Mžourá očima vypitýma únavou.  
 Vidí z pole křížení tří cest.  
@@ -29,9 +37,15 @@ omletá chodidly
 a pařezy jak pohození lidé,  
 jak jejich nasázené poloviny.
 
+  
+
 Tupé krky bez hlav
 
+  
+
 říká si.
+
+  
 
 Potká muže, který zpívá  
 důrazným a ostrým hlasem.  
@@ -42,6 +56,8 @@ Má kosti vytažené hladem.
 Když zvedá ruce, vypadá jako suchá,  
 sekerou načatá větev.
 
+  
+
 Chci spát, schoulit se,  
 položit hlavu na vlhký kořen.  
 Když mě naposledy zradil,  
@@ -50,12 +66,16 @@ bylo by jako výkřik, kdyby zaznělo.
 (Jen němě spadlo,  
 pak se roztahalo do cest.)
 
+  
+
 Na první cestě  
 tedy muž,  
 opřený o strom  
 chrlil své písně,  
 vyjeté z možností lidského hlasu  
 jako z kolejnic.
+
+  
 
 Druhá noc.  
 Ve stráních povalené kmeny,  
@@ -67,22 +87,34 @@ Zpívající muž si sedl na pařez
 a doprovázel se na bubínek z kůže  
 stinných jelenů.
 
+  
+
 Třetí noc  
 propadává moje  
 tělo žebrovím cest.
 
+  
+
 Neklid mě zhryzal.
+
+  
 
 A já jsem v hořké hlíně  
 rozdrážděná novou tvrdou písní  
 tolik chtěla spát.
+
+  
 
 Byla jsem zasutá do té prsti,  
 horkou noc jsem chtěla odkopat,  
 ale ona na mě padala,  
 jako mrzáček škobrtala o moje tělo,
 
+  
+
 rušila.
+
+  
 
 Vlci se rvou, až se pářou.  
 Vidím je zdálky.  
@@ -94,15 +126,21 @@ Takhle potrhat!
 Počkám si, až chcípnou navzájem,  
 protože nevím.
 
+  
+
 Ohryzky vlků  
 shrnu do jámy  
 a klid, který nastává v lese  
 poté, co krev se vyřinula…  
 a klid.
 
+  
+
 „V lese, kde se nebojím,  
 zní divoký nahý hlas  
 a drsné písně,“
+
+  
 
 řekla ráno Bohu,  
 když jí podával ruku  

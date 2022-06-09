@@ -3,6 +3,7 @@ contentType: prose
 ---
 
 Vydrol se, podivná  
+  
 Hrudko.  
 V puklinách bloudíš.  
 Podstato, střepatá  
@@ -12,6 +13,8 @@ z rozšeptaného chřtánu.
 Do žumpy žuchneš,  
 když si nedáš pozor!
 
+  
+
 V písku zarostlá kořeny útlých prstů  
 má v hrdle klokotavou horkost.  
 Když se zastavila pod dvěma skalami,  
@@ -20,11 +23,15 @@ Nastavila se mu — páraná plachta zaniklé lodi
 s převráceným trupem  
 vyklepnutým jako popelník.
 
+  
+
 Seber list, kaštan a kost.  
 Kost vrať do hrudního koše,  
 kaštan svírej v dlani, až to bude tupě tepat,  
 a list zapleť do vlasů,  
 a jestli ani tohle nepomůže…
+
+  
 
 Tahali z ní další nitě,  
 přímo ze švů brali.  
@@ -32,27 +39,35 @@ Prý sama se tak o vše páře,
 a přitom to byli celou dobu oni!  
 Řvala do zdi.
 
+  
+
 Hrudka si vaří lipový čaj a počítá:  
 jeden se schoulil do lžičky a čeká,  
 že vyskočí, že na ni bafne,  
 až bude tu lžičku nořit.  
-Druhý za kytkou, vidím tě, vidím,  
+Druhý za kytkou, _vidím tě,_ _vidím,  
 skřítku, šeredko, poď si dát se mnou,  
 společně to zamícháme,  
-všecko budeme dělat už jen společně!
+všecko budeme dělat už jen společně!_
+
+  
 
 Šeptala do zdi,  
 jeden roh sklepa celý prosáklý  
 vlhkými slovy:
 
-Já vím, jakej bude můj les.  
+  
+
+_Já vím, jakej bude můj les.  
 Rudej a temnej.  
 Jsem na začátku, ještě to bude trvat,  
 než se pustím do jeho nitra,  
 než si poprvý sednu o strom,  
 kterej je taky úplně temnej.  
 Světlo je jen pro ty, co se bojí,  
-a já se bojím málo, anebo vůbec ne.
+a já se bojím málo, anebo vůbec ne._
+
+  
 
 Hrudka zvedla ruku,  
 jako když se brání psovi,  
@@ -60,15 +75,23 @@ a přitom mi jen mávala
 a něžně a něžně! hladila  
 další vlasy.
 
+  
+
 Všude v ní kameny  
 a zmije.  
 Plná křížů je.  
 Nemohla pojmout tolik smrti.
 
+  
+
 Lže.
+
+  
 
 Soumračné tepotání rozsvícených mušinek  
 rozháním vlažnými pohyby zápěstí.
+
+  
 
 Stane se, že něco někde voní,  
 a to pak pukne jenom pro ni  
@@ -79,6 +102,8 @@ Nos zvednutý jak při větření.
 Na houpačce vedle ní Bůh  
 uvolňuje místo  
 pro něco ještě většího.
+
+  
 
 Hrabala promoklou posekanou trávu,  
 pod níž byla navrstvená  
@@ -91,12 +116,16 @@ Hrábě se zlomenými hroty
 pak vláčela po zkřehlé zemi  
 jako nehty.
 
+  
+
 Ve vedru jen tak polonahá  
 škrtala násadou od koštěte  
 nedozrálé plody  
 vlaštovčích hnízd.  
 Až dnes si všimla,  
 kolik je na stropech bordelu.
+
+  
 
 Sedne si na lavičku,  
 mne si ztvrdlé patky loktů.  
@@ -106,6 +135,8 @@ a voda do ní jako do jezera.
 A Bůh vedle ní zas už v rozpacích  
 uvolňuje místo.
 
+  
+
 Chrapot pavoučích nožek  
 v chladném koutě sklepa.  
 Pijí z much, i z ní sají,  
@@ -113,49 +144,69 @@ když se spustí do svěšených ramen.
 U brambor plíseň, u mrkví scvrklost,  
 která jim ztupila špice.
 
+  
+
 Já a Bůh, z každé strany někdo!  
 A Hrudka zas úplně sama  
 šeptá do zdi:
 
-Zatím jsem našla jenom pařez.  
+  
+
+_Zatím jsem našla jenom pařez.  
 Takovej rozeklanej,  
 jako by se v něm rozšmejdil  
-zlej červ.
+zlej červ._
 
-Postavila jsem se na něj.  
+  
+
+_Postavila jsem se na něj.  
 Větvila rukama,  
-kornatěla páteří.
+kornatěla páteří._
 
-Bez kmene,  
+  
+
+_Bez kmene,  
 jen se slabým trupem.  
 Bála jsem se bouřek,  
 že mě zlomí.  
 S vlasama místo koruny.  
 Bála jsem se hnízd,  
-že je neunesu.
+že je neunesu._
 
-A tíha plodů lámala mi vaz!  
-Tíha červivejch padavčat.
+  
 
-S kořenama,  
+_A tíha plodů lámala mi vaz!  
+Tíha červivejch padavčat._
+
+  
+
+_S kořenama,  
 který byly  
-nevyvratitelný.
+nevyvratitelný._
 
-Prosila jsem o radu,  
+  
+
+_Prosila jsem o radu,  
 a zaslechla jen kaluž,  
 že nejdřív musím najít  
 šedý pírko bílýho tvora,  
 kterej leží mrtvej na rozcestí.  
 Vířila pak ještě v ozvěnách:  
 „Dej si pozor  
-na špatný rozhodnutí!“
+na špatný rozhodnutí!“_
 
-A co na špatný rady?
+  
 
-Mrštila jsem do ní hrstku šutrů  
-a ubila jí všechny držky.
+_A co na špatný rady?_
 
-U srubu seděl starej chlap.  
+  
+
+_Mrštila jsem do ní hrstku šutrů  
+a ubila jí všechny držky._
+
+  
+
+_U srubu seděl starej chlap.  
 Před sebou na trávě měl nakrájenej chleba  
 a palici česneku.  
 Loupal ho nehtama a chroupal celý stroužky.  
@@ -166,24 +217,32 @@ Seděla jsem zapřená o dřevěnou zeď,
 spala.  
 A pak,  
 když se slunce natrhlo o špice borovic,  
-jsem dostala hlad.
+jsem dostala hlad._
 
-Ryba mlčí.  
+  
+
+_Ryba mlčí.  
 Přejdu most.  
-Mohla jsem jí nechat aspoň kůrku.
+Mohla jsem jí nechat aspoň kůrku._
 
-Pořád myslím na rybu  
+  
+
+_Pořád myslím na rybu  
 a na svůj hlad.  
 Kdybych měla chleba,  
 mohla jsem ji chytit  
-a sníst hned zasyrova.
+a sníst hned zasyrova._
 
-Ten starej chlap řekl,  
+  
+
+_Ten starej chlap řekl,  
 že smutek je něco vrozenýho,  
 řekl: „Daň za to, že jsme hlubší.“  
-Asi to myslel dobře.
+Asi to myslel dobře._
 
-Za mostem dítě.  
+  
+
+_Za mostem dítě.  
 Přesně takový, co jsem vždycky chtěla.  
 Hlubinný oči, našpulená pusa.  
 Provokuje tím, že není moje.  
@@ -191,18 +250,22 @@ Začalo se hihňat a utrhlo si vlas,
 pro mě na druhej kus cesty,  
 že prej ho nesmím ztratit.  
 Ale já ho dala vichřici,  
-a to bylo špatně.
+a to bylo špatně._
 
-Děcko chvíli nechápalo nic,  
+  
+
+_Děcko chvíli nechápalo nic,  
 dala jsem ho větru  
 a ten si ho bral.  
 Rozfoukal ho na kost  
 do lesů a do luk,  
 do kapradin,  
 jeho ničí stín  
-máčel v šeření.
+máčel v šeření._
 
-Ležel tam,  
+  
+
+_Ležel tam,  
 přes cestu, přes kořen,  
 jak další těžkej kmen,  
 chladný sněžný tělo.  
@@ -220,24 +283,36 @@ a hledala pero.
 Bušila pěstma do ztichlejch tepen.  
 A ono bylo až vevnitř srdečního svalu,  
 kterej jsem musela otevřít a mít u toho  
-hodně silný prsty.
+hodně silný prsty._
 
-Vyhryzla bych z tebe jako z jablka,  
+  
+
+_Vyhryzla bych z tebe jako z jablka,  
 ale nejdřív bych tě urvala  
 a poválela v listí.  
-Načichla bys tlením a zranila se o hrany vos.
+Načichla bys tlením a zranila se o hrany vos._
 
-Tak zraj!
+  
 
-Plode.
+_Tak zraj!_
+
+  
+
+_Plode._
+
+  
 
 Sestoupila z pařezu  
 vyčerpaná plody,  
 které nad svým osudem  
 nikdy nevyzrají.
 
+  
+
 Od té doby škobrtá  
 o bludný kořen  
-a Dlužíš mi les!
+_a Dlužíš mi les!_
+
+  
 
 řve do zdi.

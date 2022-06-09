@@ -2,10 +2,10 @@
 contentType: prose
 ---
 
-„Neverila som,  
+_„Neverila som,  
 že sa dá  
 zbohatnúť zo straty,  
 a ono sa to  
-skutočně nedá.“
+skutočně nedá.“_
 
-                                                    — EVA BLAŽEKOVÁ
+                                                    _— EVA BLAŽEKOVÁ_
