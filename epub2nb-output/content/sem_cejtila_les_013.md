@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Píseň zněla ze stodoly,  
 kde místo bubínku z jeleních kůží  
 šplouchala voda, cinkal kov.  
@@ -18,7 +20,9 @@ Lžíce zní o lavor
 Je zrádné zapřít hlavu zrovna ve chvíli,  
 kdy váže milého do staré pytloviny.
 
-  
+</section>
+
+<section>
 
 Stará žena sedí na nádraží  
 s květinami vraženými do plátěné tašky,  
@@ -33,7 +37,9 @@ a tlustá pavoučí těla zkrápějí
 z výloh,  
 když tichne město.
 
-  
+</section>
+
+<section>
 
 Odkryla jsem kořeny staré jabloně.  
 Byly zaryté v zemi,  
@@ -44,7 +50,9 @@ V několika rozseknutých plodech
 žhnula vosí těla.  
 Nevím, jestli ještě něco přijde.
 
-  
+</section>
+
+<section>
 
 Ležela na boku a chvěla se. Věděl, že nespí.  
 Kdyby se jí dotkl, jako by posolil žloutek.  
@@ -56,7 +64,9 @@ všechno, ale nevěděl, a tak neřekl nic, jen
 otevřel ústa, kdyby se to náhodou chtělo  
 vyslovit samo.
 
-  
+</section>
+
+<section>
 
 Dužnatý sbíral bedly. Jejich velké strupaté  
 obličeje uřízl nožem, takže z jehličí trčely jen  
@@ -75,7 +85,9 @@ k nesnesení. Řekl a bylo to k nesnesení.
 Měla sem pět klíšťat. Říkal sem ti, ať nechodíš  
 bosa. Sem cejtila les.
 
-  
+</section>
+
+<section>
 
 Je podzim, už potřicáté. Z pahýlu vrby,  
 ze kterého šlehaly nové, jakoby mastné větve,  
@@ -91,7 +103,9 @@ v dlaních, když je beru. Jako já vždycky zdrsním,
 když mě někdo bere, a z jedné strany hniju,  
 z druhé schnu..., soustřeď se na střed, člověče.
 
-  
+</section>
+
+<section>
 
 Ze stodoly doznívá  
 píseň kostem.  
@@ -101,11 +115,15 @@ ať mám sílu
 na to, co přijde,  
 kdyby to náhodou nepřišlo.
 
-  
+</section>
+
+<section>
 
 Ty samče
 
-  
+</section>
+
+<section>
 
 Bliznatý!  
 Čekám na stromě,  
@@ -115,7 +133,9 @@ sýkorám.
 Pospěš si.  
 Jí už hluboko.
 
-  
+</section>
+
+<section>
 
 Navíjím hedvábné vlákno  
 z koutů stodoly.  
@@ -131,7 +151,9 @@ nalámat dříví.
 Vrátím se!  
 řekla bych, zteplalá a prudká.
 
-  
+</section>
+
+<section>
 
 Sněhové hřbety  
 sjíždějí ze svých těl  
@@ -144,7 +166,9 @@ a sekám polena.
 Někde mezi sebou a vším,  
 co vůbec nedokážu ovlivnit.
 
-  
+</section>
+
+<section>
 
 Milá dlaní uhladila hrob  
 a zpěvák si šel po svých,  
@@ -163,7 +187,11 @@ a na hlad.
 Víno jsem nikam nelila,  
 pila jsem ho přímo z krabice.
 
-  
+</section>
+
+<section>
 
 Všechno, co teď přijde, je už navíc,  
 říkám si.
+
+</section>
