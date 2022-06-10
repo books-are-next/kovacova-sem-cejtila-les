@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla Sem cejtila les tak, jak bylo vydáno nakladatelstvím Perplex v roce 2015 (KOVÁČOVÁ, Kateřina. _Sem cetjila les_. 1. vyd. Ilustr. Jan GŘEŠEK. Opava: Perplex, 2015. 72 s.).
 
 * * *
@@ -27,3 +29,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 * * *
 
 Verze 1.0 z 17. 2. 2017.
+
+</section>
