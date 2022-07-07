@@ -10,6 +10,6 @@ zbohatnúť zo straty,
 a ono sa to  
 skutočně nedá.“_
 
-                                                    _— EVA BLAŽEKOVÁ_
+            _— EVA BLAŽEKOVÁ_
 
 </section>
