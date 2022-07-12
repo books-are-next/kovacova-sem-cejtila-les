@@ -17,13 +17,9 @@ readingOrder:
   - promo.html
   - sem_cejtila_les_005.html
   - sem_cejtila_les_006.html
-  - sem_cejtila_les_007.html
   - sem_cejtila_les_008.html
-  - sem_cejtila_les_009.html
   - sem_cejtila_les_010.html
-  - sem_cejtila_les_011.html
   - sem_cejtila_les_012.html
-  - sem_cejtila_les_013.html
   - about.html
 tocBase:
   - id: section-1
@@ -31,6 +27,18 @@ tocBase:
       - link: sem_cejtila_les_005.html
         title: Věnování
         hiddenTitle: true
+      - link: sem_cejtila_les_006.html
+        title: Zní ze zdí
+        hiddenTitle: false
+      - link: sem_cejtila_les_008.html
+        title: "Zní z\_kostí"
+        hiddenTitle: false
+      - link: sem_cejtila_les_010.html
+        title: "Zní z\_hnízd"
+        hiddenTitle: false
+      - link: sem_cejtila_les_012.html
+        title: "Zní z\_písní"
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
