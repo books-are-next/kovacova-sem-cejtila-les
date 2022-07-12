@@ -1,9 +1,6 @@
 ---
+title: Zní ze zdí
 contentType: poetry
 ---
 
-<section>
 
-## Zní ze zdí
-
-</section>

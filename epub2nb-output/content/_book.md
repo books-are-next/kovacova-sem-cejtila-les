@@ -27,7 +27,10 @@ readingOrder:
   - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: sem_cejtila_les_005.html
+        title: Věnování
+        hiddenTitle: true
     isSection: true
     listType: plain
 static:

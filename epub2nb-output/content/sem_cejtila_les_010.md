@@ -1,9 +1,6 @@
 ---
+title: "Zní z\_hnízd"
 contentType: poetry
 ---
 
-<section>
 
-## Zní z hnízd
-
-</section>
