@@ -24,7 +24,7 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "figure": "MLP.obrazky.*\nmlpobrazky\ne-booklicenceobrazek",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "sem_cejtila_les_001.md",
@@ -109,8 +110,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zní ze zdí"
+            "title": "Zní ze zdí",
+            "children": []
           },
           {
             "filename": "sem_cejtila_les_007.md",
@@ -134,8 +135,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zní z kostí"
+            "title": "Zní z kostí",
+            "children": []
           },
           {
             "filename": "sem_cejtila_les_009.md",
@@ -159,8 +160,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zní z hnízd"
+            "title": "Zní z hnízd",
+            "children": []
           },
           {
             "filename": "sem_cejtila_les_011.md",
@@ -184,8 +185,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zní z písní"
+            "title": "Zní z písní",
+            "children": []
           },
           {
             "filename": "sem_cejtila_les_013.md",
@@ -211,8 +212,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -395,6 +395,6 @@
       "user": "books-are-next",
       "repo": "kovacova-sem-cejtila-les"
     },
-    "generatedAt": 1657638949830
+    "generatedAt": 1657789804657
   }
 }
