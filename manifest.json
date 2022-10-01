@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kovacova-sem-cejtila-les-9f9ebab",
-  "revision": "9f9ebab",
+  "identifier": "kovacova-sem-cejtila-les-c83b2e3",
+  "revision": "c83b2e3",
   "readingOrder": [
     "promo.html",
     "sem_cejtila_les_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:27:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486853681
+    "date": "Sat Oct 01 2022 15:56:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639810140
   },
   "documents": [
     {
