@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kovacova-sem-cejtila-les-2795373",
-  "revision": "2795373",
+  "identifier": "kovacova-sem-cejtila-les-0c38ebd",
+  "revision": "0c38ebd",
   "readingOrder": [
     "promo.html",
     "sem_cejtila_les_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151816966
+    "date": "Mon Oct 10 2022 16:02:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417737441
   },
   "documents": [
     {
@@ -140,7 +140,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 168,
-      "chars": 1168,
+      "chars": 1171,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -160,7 +160,7 @@
   "totals": {
     "all": {
       "words": 2278,
-      "chars": 12683,
+      "chars": 12686,
       "ideas": 506
     },
     "chapters": {
